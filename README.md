@@ -34,3 +34,11 @@
 | XSGD | [0x0a6d3eb98abb3754e54abee7da2ddaa892ecb980](https://etherscan.io/address/0x0a6d3eb98abb3754e54abee7da2ddaa892ecb980) |
 | EURS | [0x1Bd4F9e718442A1c9F14cc04a235119e3C0d2Cf2](https://etherscan.io/address/0x1Bd4F9e718442A1c9F14cc04a235119e3C0d2Cf2) |
 | CADC | [0xd1681390a5ac8a60d4392eb3c22ca662b2db68d7](https://etherscan.io/address/0xd1681390a5ac8a60d4392eb3c22ca662b2db68d7) |
+
+---
+
+# Pairs
+
+| Name | Address |
+| --- | --- |
+| SushiLP-ETH-DFX | [0xbe71372995e8e920e4e72a29a51463677a302e8d](https://sushiswap.vision/pair/0xbe71372995e8e920e4e72a29a51463677a302e8d) |
