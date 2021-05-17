@@ -25,6 +25,14 @@
 | DFXv0 EURS | [0x249dda6b483F3fde86cd1937E825f0901c1151f3](https://etherscan.io/address/0x249dda6b483F3fde86cd1937E825f0901c1151f3) | [0x20DeD7F6F8dbb6C1CC989fC923fB180142Ee0144](https://etherscan.io/address/0x20DeD7F6F8dbb6C1CC989fC923fB180142Ee0144) |
 | DFXv0 CADC | [0x77e8560bc23fdf3c7a93c6f8e6c295d6088a9889](https://etherscan.io/address/0x77e8560bc23fdf3c7a93c6f8e6c295d6088a9889) | [0x47b6bfd8f2a85595bd5737ee1d620618e1e35323](https://etherscan.io/address/0x47b6bfd8f2a85595bd5737ee1d620618e1e35323) |
 
+# v0.5
+
+| Name       | Pool |
+| ---------- | ---  |
+| DFXv0.5 CADC | [0x52F1eE265befa61c83a654d242348b18Ad85C3d3](https://etherscan.io/address/0x52F1eE265befa61c83a654d242348b18Ad85C3d3) |
+| DFXv0.5 EURS | [0xF3d8451c6A25368D1c8957EC8C6Aa76B86ba3a46](https://etherscan.io/address/0xF3d8451c6A25368D1c8957EC8C6Aa76B86ba3a46) |
+| DFXv0.5 XSGD | [0xEd9D7341C80F1c8A109696356d8fa35bd766489C](https://etherscan.io/address/0xEd9D7341C80F1c8A109696356d8fa35bd766489C) |
+
 ---
 
 # Staking Pools
