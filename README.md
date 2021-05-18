@@ -25,6 +25,12 @@
 | DFXv0 EURS | [0x249dda6b483F3fde86cd1937E825f0901c1151f3](https://etherscan.io/address/0x249dda6b483F3fde86cd1937E825f0901c1151f3) | [0x20DeD7F6F8dbb6C1CC989fC923fB180142Ee0144](https://etherscan.io/address/0x20DeD7F6F8dbb6C1CC989fC923fB180142Ee0144) |
 | DFXv0 CADC | [0x77e8560bc23fdf3c7a93c6f8e6c295d6088a9889](https://etherscan.io/address/0x77e8560bc23fdf3c7a93c6f8e6c295d6088a9889) | [0x47b6bfd8f2a85595bd5737ee1d620618e1e35323](https://etherscan.io/address/0x47b6bfd8f2a85595bd5737ee1d620618e1e35323) |
 
+| Staking Pool | Address                                                                                                       |
+| ---- | --------------------------------------------------------------------------------------------------------------------- |
+| XSGD | [0x0a6d3eb98abb3754e54abee7da2ddaa892ecb980](https://etherscan.io/address/0x0a6d3eb98abb3754e54abee7da2ddaa892ecb980) |
+| EURS | [0x1Bd4F9e718442A1c9F14cc04a235119e3C0d2Cf2](https://etherscan.io/address/0x1Bd4F9e718442A1c9F14cc04a235119e3C0d2Cf2) |
+| CADC | [0xd1681390a5ac8a60d4392eb3c22ca662b2db68d7](https://etherscan.io/address/0xd1681390a5ac8a60d4392eb3c22ca662b2db68d7) |
+
 # v0.5
 
 | Name       | Address |
@@ -39,20 +45,11 @@
 | DFXv0.5 EURS         | [0xF3d8451c6A25368D1c8957EC8C6Aa76B86ba3a46](https://etherscan.io/address/0xF3d8451c6A25368D1c8957EC8C6Aa76B86ba3a46) |
 | DFXv0.5 XSGD         | [0xEd9D7341C80F1c8A109696356d8fa35bd766489C](https://etherscan.io/address/0xEd9D7341C80F1c8A109696356d8fa35bd766489C) |
 
----
-
-# Staking Pools
-
-| Name | Staking Pool                                                                                                          |
+| Staking Pool | Address                                                                                                       |
 | ---- | --------------------------------------------------------------------------------------------------------------------- |
-| XSGD | [0x0a6d3eb98abb3754e54abee7da2ddaa892ecb980](https://etherscan.io/address/0x0a6d3eb98abb3754e54abee7da2ddaa892ecb980) |
-| EURS | [0x1Bd4F9e718442A1c9F14cc04a235119e3C0d2Cf2](https://etherscan.io/address/0x1Bd4F9e718442A1c9F14cc04a235119e3C0d2Cf2) |
-| CADC | [0xd1681390a5ac8a60d4392eb3c22ca662b2db68d7](https://etherscan.io/address/0xd1681390a5ac8a60d4392eb3c22ca662b2db68d7) |
+| DFXv0.5 CADC | [0xD09607e80936f6abf35eee75E77115a93A5FE9D5](https://etherscan.io/address/0xD09607e80936f6abf35eee75E77115a93A5FE9D5) |
+| DFXv0.5 EURS | [0x58c88f583b26F59215F43633F4181F210379226E](https://etherscan.io/address/0x58c88f583b26F59215F43633F4181F210379226E) |
+| DFXv0.5 XSGD | [0x2F9575851A373a86A481d4170F1Cd20194c348c2](https://etherscan.io/address/0x2F9575851A373a86A481d4170F1Cd20194c348c2) |
+
 
 ---
-
-# Pairs
-
-| Name | Address |
-| --- | --- |
-| SushiLP-ETH-DFX | [0xbe71372995e8e920e4e72a29a51463677a302e8d](https://sushiswap.vision/pair/0xbe71372995e8e920e4e72a29a51463677a302e8d) |
