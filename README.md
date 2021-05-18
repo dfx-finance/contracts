@@ -35,15 +35,15 @@
 
 | Name       | Address |
 | ---------- | ------  |
-| Router               | [0xa557373168c1914422B669cbAF9145B225066a7F](https://etherscan.io/address/0xa557373168c1914422B669cbAF9145B225066a7F) |
-| CurveFactory         | [0x17118d149ce6F891aad1d7a66CADAA6837B386EF](https://etherscan.io/address/0x17118d149ce6F891aad1d7a66CADAA6837B386EF) |
+| Router               | [0x9d0950c595786AbA7c26dfDdf270D66a8b18B4FA](https://etherscan.io/address/0x9d0950c595786AbA7c26dfDdf270D66a8b18B4FA) |
+| CurveFactory         | [0xd3C1bF5582b5f3029b15bE04a49C65d3226dFB0C](https://etherscan.io/address/0xd3C1bF5582b5f3029b15bE04a49C65d3226dFB0C) |
 | CadcToUsdAssimilator | [0x12310b7726eaE2D2438361Fd126a25D8381Fe891](https://etherscan.io/address/0x12310b7726eaE2D2438361Fd126a25D8381Fe891) |
-| UsdcToUsdAssimilator | [0xAb23B50fC7835D0F1B892746992f28646305306C](https://etherscan.io/address/0xAb23B50fC7835D0F1B892746992f28646305306C) |
+| UsdcToUsdAssimilator | [0x3CB209Dc9dDC45ce4Fd9a2f5DD33a8C6A9b6ea52](https://etherscan.io/address/0x3CB209Dc9dDC45ce4Fd9a2f5DD33a8C6A9b6ea52) |
 | EursToUsdAssimilator | [0x39F45038D763dd88791cE9BdE8d6c18081c7d522](https://etherscan.io/address/0x39F45038D763dd88791cE9BdE8d6c18081c7d522) |
 | XsgdToUsdAssimilator | [0xe36DeD0aF2929870977F05A1f017BAB6CF8190f8](https://etherscan.io/address/0xe36DeD0aF2929870977F05A1f017BAB6CF8190f8) |
-| DFXv0.5 CADC         | [0x52F1eE265befa61c83a654d242348b18Ad85C3d3](https://etherscan.io/address/0x52F1eE265befa61c83a654d242348b18Ad85C3d3) |
-| DFXv0.5 EURS         | [0xF3d8451c6A25368D1c8957EC8C6Aa76B86ba3a46](https://etherscan.io/address/0xF3d8451c6A25368D1c8957EC8C6Aa76B86ba3a46) |
-| DFXv0.5 XSGD         | [0xEd9D7341C80F1c8A109696356d8fa35bd766489C](https://etherscan.io/address/0xEd9D7341C80F1c8A109696356d8fa35bd766489C) |
+| DFXv0.5 CADC         | [0xa6c0cbcaebd93ad3c6c94412ec06aaa37870216d](https://etherscan.io/address/0xa6c0cbcaebd93ad3c6c94412ec06aaa37870216d) |
+| DFXv0.5 EURS         | [0x1a4Ffe0DCbDB4d551cfcA61A5626aFD190731347](https://etherscan.io/address/0x1a4Ffe0DCbDB4d551cfcA61A5626aFD190731347) |
+| DFXv0.5 XSGD         | [0x2baB29a12a9527a179Da88F422cDaaA223A90bD5](https://etherscan.io/address/0x2baB29a12a9527a179Da88F422cDaaA223A90bD5) |
 
 | Staking Pool | Address                                                                                                       |
 | ---- | --------------------------------------------------------------------------------------------------------------------- |
