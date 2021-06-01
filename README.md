@@ -15,6 +15,10 @@
 | Dev Fund            | [0xffDee62759E4BA71f2A632c6e3690d8FAa55bAb3](https://etherscan.io/address/0xffDee62759E4BA71f2A632c6e3690d8FAa55bAb3) |
 | Round 3             | [0x5AE4601EDCc2e375e8863f0E1d96d99f5baBFDf0](https://etherscan.io/address/0x5AE4601EDCc2e375e8863f0E1d96d99f5baBFDf0) |
 
+| Name | Address |
+| ---- | ---- |
+| BAL MerkleDistributorWithRecover | [0x597f028008fbBF3BD66854760D6Daf5eD5A02eF0](https://etherscan.io/address/0x597f028008fbBF3BD66854760D6Daf5eD5A02eF0) |
+
 ---
 
 # v0
