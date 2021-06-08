@@ -39,7 +39,7 @@
 
 | Name       | Address |
 | ---------- | ------  |
-| Zap                  | [0x7c1f74C9DD441e5954d25096693AE6E67050D308](https://etherscan.io/address/0x7c1f74C9DD441e5954d25096693AE6E67050D308) |
+| Zap                  | [0xf0572e2bF615911656616170B8d12436Abfece0E](https://etherscan.io/address/0xf0572e2bF615911656616170B8d12436Abfece0E) |
 | Router               | [0x9d0950c595786AbA7c26dfDdf270D66a8b18B4FA](https://etherscan.io/address/0x9d0950c595786AbA7c26dfDdf270D66a8b18B4FA) |
 | CurveFactory         | [0xd3C1bF5582b5f3029b15bE04a49C65d3226dFB0C](https://etherscan.io/address/0xd3C1bF5582b5f3029b15bE04a49C65d3226dFB0C) |
 | CadcToUsdAssimilator | [0x12310b7726eaE2D2438361Fd126a25D8381Fe891](https://etherscan.io/address/0x12310b7726eaE2D2438361Fd126a25D8381Fe891) |
