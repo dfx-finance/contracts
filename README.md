@@ -17,7 +17,7 @@
 
 | Name | Address |
 | ---- | ---- |
-| BAL MerkleDistributorWithRecover | [0x38f4a25CDa1Bbd72b7Fe64E4a6d1486cc25cEA19](https://etherscan.io/address/0x38f4a25CDa1Bbd72b7Fe64E4a6d1486cc25cEA19) |
+| BAL MerkleDistributorWithRecover | [0x0d3Ea9FAa63Ee87D6Eb901759c18fA0a10c37F35](https://etherscan.io/address/0x0d3Ea9FAa63Ee87D6Eb901759c18fA0a10c37F35) |
 
 ---
 
