@@ -6,6 +6,7 @@
 | ------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | CADC                | [0xcadc0acd4b445166f12d2c07eac6e2544fbe2eef](https://etherscan.io/address/0xcadc0acd4b445166f12d2c07eac6e2544fbe2eef) |
 | DFX                 | [0x888888435fde8e7d4c54cab67f206e4199454c60](https://etherscan.io/address/0x888888435fde8e7d4c54cab67f206e4199454c60) |
+| DFX-ETH-SUSHI-LP    | [0xbe71372995e8e920e4e72a29a51463677a302e8d](https://etherscan.io/address/0xbe71372995e8e920e4e72a29a51463677a302e8d) |
 
 
 | Multi Sig           | Address                                                                                                               |
@@ -56,6 +57,7 @@
 | DFXv0.5 CADC | [0x84Bf8151394dcF32146965753B28760550f3D7A8](https://etherscan.io/address/0x84Bf8151394dcF32146965753B28760550f3D7A8) |
 | DFXv0.5 EURS | [0x5EaAEff69f2aB64d1CC0244FB31B236cA989544f](https://etherscan.io/address/0x5EaAEff69f2aB64d1CC0244FB31B236cA989544f) |
 | DFXv0.5 XSGD | [0xd52D48Db08e8224ef6E2be8F54f3c84e790b1c32](https://etherscan.io/address/0xd52D48Db08e8224ef6E2be8F54f3c84e790b1c32) |
+| DFX-ETH-SUSHI-LP | [0xE690E93Fd96b2b8d1cdeCDe5F08422F3dd82e164](https://etherscan.io/address/0xE690E93Fd96b2b8d1cdeCDe5F08422F3dd82e164) |
 
 
 ---
