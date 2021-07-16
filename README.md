@@ -38,6 +38,8 @@
 
 # v0.5
 
+## Ethereum
+
 | Name       | Address |
 | ---------- | ------  |
 | Zap                  | [0x64d65E3d70ba0f8812A9d1d7b8B5C51DAB78CD15](https://etherscan.io/address/0x64d65E3d70ba0f8812A9d1d7b8B5C51DAB78CD15) |
@@ -59,5 +61,17 @@
 | DFXv0.5 XSGD | [0xd52D48Db08e8224ef6E2be8F54f3c84e790b1c32](https://etherscan.io/address/0xd52D48Db08e8224ef6E2be8F54f3c84e790b1c32) |
 | DFX-ETH-SUSHI-LP | [0xE690E93Fd96b2b8d1cdeCDe5F08422F3dd82e164](https://etherscan.io/address/0xE690E93Fd96b2b8d1cdeCDe5F08422F3dd82e164) |
 
+## Polygon
 
----
+| Name       | Address |
+| ---------- | ------  |
+| Zap                  | [0x921a33B6f2cf9bC79FDd1F052c36b12eFEeC2AA7](https://polygonscan.com/address/0x921a33B6f2cf9bC79FDd1F052c36b12eFEeC2AA7) |
+| Router               | [0x39F45038D763dd88791cE9BdE8d6c18081c7d522](https://polygonscan.com/address/0x39F45038D763dd88791cE9BdE8d6c18081c7d522) |
+| CurveFactory         | [0xAb23B50fC7835D0F1B892746992f28646305306C](https://polygonscan.com/address/0xAb23B50fC7835D0F1B892746992f28646305306C) |
+| CadcToUsdAssimilator | [0xe36DeD0aF2929870977F05A1f017BAB6CF8190f8](https://polygonscan.com/address/0xe36DeD0aF2929870977F05A1f017BAB6CF8190f8) |
+| UsdcToUsdAssimilator | [0x8F022C3e9f8F915Fd99c0E307059acD2B908D8E1](https://polygonscan.com/address/0x8F022C3e9f8F915Fd99c0E307059acD2B908D8E1) |
+| EursToUsdAssimilator | [0xD09607e80936f6abf35eee75E77115a93A5FE9D5](https://polygonscan.com/address/0xD09607e80936f6abf35eee75E77115a93A5FE9D5) |
+| XsgdToUsdAssimilator | [0x58c88f583b26F59215F43633F4181F210379226E](https://polygonscan.com/address/0x58c88f583b26F59215F43633F4181F210379226E) |
+| DFXv0.5 CADC         | [0x288Ab1b113C666Abb097BB2bA51B8f3759D7729e](https://polygonscan.com/address/0x288Ab1b113C666Abb097BB2bA51B8f3759D7729e) |
+| DFXv0.5 EURS         | [0xB72d390E07F40D37D42dfCc43E954Ae7c738Ad44](https://polygonscan.com/address/0xB72d390E07F40D37D42dfCc43E954Ae7c738Ad44) |
+| DFXv0.5 XSGD         | [0x8e3e9cB46E593Ec0CaF4a1Dcd6DF3A79a87b1fd7](https://polygonscan.com/address/0x8e3e9cB46E593Ec0CaF4a1Dcd6DF3A79a87b1fd7) |
