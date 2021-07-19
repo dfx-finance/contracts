@@ -75,3 +75,9 @@
 | DFXv0.5 CADC         | [0x288Ab1b113C666Abb097BB2bA51B8f3759D7729e](https://polygonscan.com/address/0x288Ab1b113C666Abb097BB2bA51B8f3759D7729e) |
 | DFXv0.5 EURS         | [0xB72d390E07F40D37D42dfCc43E954Ae7c738Ad44](https://polygonscan.com/address/0xB72d390E07F40D37D42dfCc43E954Ae7c738Ad44) |
 | DFXv0.5 XSGD         | [0x8e3e9cB46E593Ec0CaF4a1Dcd6DF3A79a87b1fd7](https://polygonscan.com/address/0x8e3e9cB46E593Ec0CaF4a1Dcd6DF3A79a87b1fd7) |
+
+| Staking Pool | Address                                                                                                       |
+| ---- | --------------------------------------------------------------------------------------------------------------------- |
+| DFXv0.5 CADC | [0x416e075c7893ceae8e4531655fb7725b79f86e10](https://polygonscan.com/address/0x416e075c7893ceae8e4531655fb7725b79f86e10) |
+| DFXv0.5 EURS | [0xb748a5509246e0a47d20fb64343dbfad5b26dae7](https://polygonscan.com/address/0xb748a5509246e0a47d20fb64343dbfad5b26dae7) |
+| DFXv0.5 XSGD | [0x89141b3c8a35f5323853d8c8839488fc0b90aa4d](https://polygonscan.com/address/0x89141b3c8a35f5323853d8c8839488fc0b90aa4d) |
