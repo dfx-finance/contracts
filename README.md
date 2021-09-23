@@ -64,7 +64,8 @@
 | DFXv0.5 CADC | [0x84Bf8151394dcF32146965753B28760550f3D7A8](https://etherscan.io/address/0x84Bf8151394dcF32146965753B28760550f3D7A8) |
 | DFXv0.5 EURS | [0x5EaAEff69f2aB64d1CC0244FB31B236cA989544f](https://etherscan.io/address/0x5EaAEff69f2aB64d1CC0244FB31B236cA989544f) |
 | DFXv0.5 XSGD | [0xd52D48Db08e8224ef6E2be8F54f3c84e790b1c32](https://etherscan.io/address/0xd52D48Db08e8224ef6E2be8F54f3c84e790b1c32) |
-| DFXv0.5 NZDS | TRYB | [0xddb720069fdfe7be2e2883a1c06be0f353f7c4c8](https://etherscan.io/address/0xddb720069fdfe7be2e2883a1c06be0f353f7c4c8) |
+| DFXv0.5 NZDS | [0xe06FA52e0d2D58Fe192285bfa0507F09cDd9824a](https://etherscan.io/address/0xe06FA52e0d2D58Fe192285bfa0507F09cDd9824a) |
+| DFXv0.5 TRYB | [0xddb720069fdfe7be2e2883a1c06be0f353f7c4c8](https://etherscan.io/address/0xddb720069fdfe7be2e2883a1c06be0f353f7c4c8) |
 | DFX-ETH-SUSHI-LP | [0xE690E93Fd96b2b8d1cdeCDe5F08422F3dd82e164](https://etherscan.io/address/0xE690E93Fd96b2b8d1cdeCDe5F08422F3dd82e164) |
 
 ## Polygon
