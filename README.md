@@ -52,6 +52,7 @@
 | EursToUsdAssimilator | [0x39F45038D763dd88791cE9BdE8d6c18081c7d522](https://etherscan.io/address/0x39F45038D763dd88791cE9BdE8d6c18081c7d522) |
 | XsgdToUsdAssimilator | [0xe36DeD0aF2929870977F05A1f017BAB6CF8190f8](https://etherscan.io/address/0xe36DeD0aF2929870977F05A1f017BAB6CF8190f8) |
 | NzdsToUsdAssimilator | [0x583aF720640e95A32A2E7973596aDD2e67a3Cb34](https://etherscan.io/address/0x583aF720640e95A32A2E7973596aDD2e67a3Cb34) |
+| TrybToUsdAssimilator | [0xF3664456ae047F8f3e2c256B1a30780516C406F4](https://etherscan.io/address/0xF3664456ae047F8f3e2c256B1a30780516C406F4) |
 | DFXv0.5 CADC         | [0xa6c0cbcaebd93ad3c6c94412ec06aaa37870216d](https://etherscan.io/address/0xa6c0cbcaebd93ad3c6c94412ec06aaa37870216d) |
 | DFXv0.5 EURS         | [0x1a4Ffe0DCbDB4d551cfcA61A5626aFD190731347](https://etherscan.io/address/0x1a4Ffe0DCbDB4d551cfcA61A5626aFD190731347) |
 | DFXv0.5 XSGD         | [0x2baB29a12a9527a179Da88F422cDaaA223A90bD5](https://etherscan.io/address/0x2baB29a12a9527a179Da88F422cDaaA223A90bD5) |
