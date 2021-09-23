@@ -57,6 +57,7 @@
 | DFXv0.5 EURS         | [0x1a4Ffe0DCbDB4d551cfcA61A5626aFD190731347](https://etherscan.io/address/0x1a4Ffe0DCbDB4d551cfcA61A5626aFD190731347) |
 | DFXv0.5 XSGD         | [0x2baB29a12a9527a179Da88F422cDaaA223A90bD5](https://etherscan.io/address/0x2baB29a12a9527a179Da88F422cDaaA223A90bD5) |
 | DFXv0.5 NZDS         | [0xe9669516e09f5710023566458f329cce6437aaac](https://etherscan.io/address/0xe9669516e09f5710023566458f329cce6437aaac) |
+| DFXv0.5 TRYB         | [0xc574a613a3900e4314da13eb2287f13689a5b64d](https://etherscan.io/address/0xc574a613a3900e4314da13eb2287f13689a5b64d) |
 
 | Staking Pool | Address                                                                                                       |
 | ---- | --------------------------------------------------------------------------------------------------------------------- |
