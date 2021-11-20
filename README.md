@@ -88,3 +88,4 @@
 | DFXv0.5 CADC | [0x416e075c7893ceae8e4531655fb7725b79f86e10](https://polygonscan.com/address/0x416e075c7893ceae8e4531655fb7725b79f86e10) |
 | DFXv0.5 EURS | [0xb748a5509246e0a47d20fb64343dbfad5b26dae7](https://polygonscan.com/address/0xb748a5509246e0a47d20fb64343dbfad5b26dae7) |
 | DFXv0.5 XSGD | [0x89141b3c8a35f5323853d8c8839488fc0b90aa4d](https://polygonscan.com/address/0x89141b3c8a35f5323853d8c8839488fc0b90aa4d) |
+| DFXv0.5 TEL-DFX | [0xd52D48Db08e8224ef6E2be8F54f3c84e790b1c32](https://polygonscan.com/address/0xd52D48Db08e8224ef6E2be8F54f3c84e790b1c32) |
