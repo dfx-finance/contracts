@@ -79,13 +79,19 @@
 | UsdcToUsdAssimilator | [0x8F022C3e9f8F915Fd99c0E307059acD2B908D8E1](https://polygonscan.com/address/0x8F022C3e9f8F915Fd99c0E307059acD2B908D8E1) |
 | EursToUsdAssimilator | [0xD09607e80936f6abf35eee75E77115a93A5FE9D5](https://polygonscan.com/address/0xD09607e80936f6abf35eee75E77115a93A5FE9D5) |
 | XsgdToUsdAssimilator | [0x58c88f583b26F59215F43633F4181F210379226E](https://polygonscan.com/address/0x58c88f583b26F59215F43633F4181F210379226E) |
+| NzdsToUsdAssimilator | [0xc37d72Cd56F2cA25d2239EC0A3eA20e7187D185A](https://polygonscan.com/address/0xc37d72Cd56F2cA25d2239EC0A3eA20e7187D185A) |
+| TrybToUsdAssimilator | [0xC88D43b3BeD117f274F4b9bFDC21c3Cd6F61cAbE](https://polygonscan.com/address/0xC88D43b3BeD117f274F4b9bFDC21c3Cd6F61cAbE) |
 | DFXv0.5 CADC         | [0x288Ab1b113C666Abb097BB2bA51B8f3759D7729e](https://polygonscan.com/address/0x288Ab1b113C666Abb097BB2bA51B8f3759D7729e) |
 | DFXv0.5 EURS         | [0xB72d390E07F40D37D42dfCc43E954Ae7c738Ad44](https://polygonscan.com/address/0xB72d390E07F40D37D42dfCc43E954Ae7c738Ad44) |
 | DFXv0.5 XSGD         | [0x8e3e9cB46E593Ec0CaF4a1Dcd6DF3A79a87b1fd7](https://polygonscan.com/address/0x8e3e9cB46E593Ec0CaF4a1Dcd6DF3A79a87b1fd7) |
+| DFXv0.5 NZDS         | [0x931d6a6cc3f992beee80a1a14a6530d34104b000](https://polygonscan.com/address/0x931d6a6cc3f992beee80a1a14a6530d34104b000) |
+| DFXv0.5 TRYB         | [0xea75cd0b12a8b48f5bddad37ceb15f8cb3d2cc75](https://polygonscan.com/address/0xea75cd0b12a8b48f5bddad37ceb15f8cb3d2cc75) |
 
 | Staking Pool | Address                                                                                                       |
 | ---- | --------------------------------------------------------------------------------------------------------------------- |
 | DFXv0.5 CADC | [0x416e075c7893ceae8e4531655fb7725b79f86e10](https://polygonscan.com/address/0x416e075c7893ceae8e4531655fb7725b79f86e10) |
 | DFXv0.5 EURS | [0xb748a5509246e0a47d20fb64343dbfad5b26dae7](https://polygonscan.com/address/0xb748a5509246e0a47d20fb64343dbfad5b26dae7) |
 | DFXv0.5 XSGD | [0x89141b3c8a35f5323853d8c8839488fc0b90aa4d](https://polygonscan.com/address/0x89141b3c8a35f5323853d8c8839488fc0b90aa4d) |
+| DFXv0.5 NZDS | [0x6e01699eF5C36DCe95D627B2E29E8323a086122c](https://polygonscan.com/address/0x6e01699eF5C36DCe95D627B2E29E8323a086122c) |
+| DFXv0.5 TRYB | [0xfCBb946CbC0434a541433E97e835072f54a438F6](https://polygonscan.com/address/0xfCBb946CbC0434a541433E97e835072f54a438F6) |
 | DFXv0.5 TEL-DFX | [0xd52D48Db08e8224ef6E2be8F54f3c84e790b1c32](https://polygonscan.com/address/0xd52D48Db08e8224ef6E2be8F54f3c84e790b1c32) |
