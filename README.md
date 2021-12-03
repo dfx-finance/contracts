@@ -53,11 +53,13 @@
 | XsgdToUsdAssimilator | [0xe36DeD0aF2929870977F05A1f017BAB6CF8190f8](https://etherscan.io/address/0xe36DeD0aF2929870977F05A1f017BAB6CF8190f8) |
 | NzdsToUsdAssimilator | [0x583aF720640e95A32A2E7973596aDD2e67a3Cb34](https://etherscan.io/address/0x583aF720640e95A32A2E7973596aDD2e67a3Cb34) |
 | TrybToUsdAssimilator | [0xF3664456ae047F8f3e2c256B1a30780516C406F4](https://etherscan.io/address/0xF3664456ae047F8f3e2c256B1a30780516C406F4) |
+| XidrToUsdAssimilator | [0x39b110464dfeee66f7c1dcec1d4c8322f668a510](https://etherscan.io/address/0x39b110464dfeee66f7c1dcec1d4c8322f668a510) |
 | DFXv0.5 CADC         | [0xa6c0cbcaebd93ad3c6c94412ec06aaa37870216d](https://etherscan.io/address/0xa6c0cbcaebd93ad3c6c94412ec06aaa37870216d) |
 | DFXv0.5 EURS         | [0x1a4Ffe0DCbDB4d551cfcA61A5626aFD190731347](https://etherscan.io/address/0x1a4Ffe0DCbDB4d551cfcA61A5626aFD190731347) |
 | DFXv0.5 XSGD         | [0x2baB29a12a9527a179Da88F422cDaaA223A90bD5](https://etherscan.io/address/0x2baB29a12a9527a179Da88F422cDaaA223A90bD5) |
 | DFXv0.5 NZDS         | [0xe9669516e09f5710023566458f329cce6437aaac](https://etherscan.io/address/0xe9669516e09f5710023566458f329cce6437aaac) |
 | DFXv0.5 TRYB         | [0xc574a613a3900e4314da13eb2287f13689a5b64d](https://etherscan.io/address/0xc574a613a3900e4314da13eb2287f13689a5b64d) |
+| DFXv0.5 XIDR         | [0xdd39379ab7c93b9baae29e6ec03795d0bc99a889](https://etherscan.io/address/0xdd39379ab7c93b9baae29e6ec03795d0bc99a889) |
 
 | Staking Pool | Address                                                                                                       |
 | ---- | --------------------------------------------------------------------------------------------------------------------- |
@@ -66,6 +68,7 @@
 | DFXv0.5 XSGD | [0xd52D48Db08e8224ef6E2be8F54f3c84e790b1c32](https://etherscan.io/address/0xd52D48Db08e8224ef6E2be8F54f3c84e790b1c32) |
 | DFXv0.5 NZDS | [0xe06FA52e0d2D58Fe192285bfa0507F09cDd9824a](https://etherscan.io/address/0xe06FA52e0d2D58Fe192285bfa0507F09cDd9824a) |
 | DFXv0.5 TRYB | [0xddb720069fdfe7be2e2883a1c06be0f353f7c4c8](https://etherscan.io/address/0xddb720069fdfe7be2e2883a1c06be0f353f7c4c8) |
+| DFXv0.5 XIDR | [0xE29B7285c1169a9765e2a9BfE74209077Bee55D6](https://etherscan.io/address/0xE29B7285c1169a9765e2a9BfE74209077Bee55D6) |
 | DFX-ETH-SUSHI-LP | [0xE690E93Fd96b2b8d1cdeCDe5F08422F3dd82e164](https://etherscan.io/address/0xE690E93Fd96b2b8d1cdeCDe5F08422F3dd82e164) |
 
 ## Polygon
