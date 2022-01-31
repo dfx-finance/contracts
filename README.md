@@ -1,5 +1,7 @@
 # Contracts
 
+Here is a list of relevant addresses relating to the DFX protocol. For smart contract source, please see: https://github.com/dfx-finance/protocol.
+
 ---
 
 | Tokens              | Address                                                                                                               |
