@@ -16,6 +16,7 @@ For the source of the protocol's smart contracts, please see: https://github.com
 | Multi Sig           | Address                                                                                                               |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | Governance          | [0x27E843260c71443b4CC8cB6bF226C3f77b9695AF](https://etherscan.io/address/0x27E843260c71443b4CC8cB6bF226C3f77b9695AF) |
+| Access Control (Ethereum) | [0x26f539A0fE189A7f228D7982BF10Bc294FA9070c](https://gnosis-safe.io/app/#/safes/0xc9f05fa7049b32712c5d6675ebded167150475c4/transactions) |
 | Treasury (Ethereum) | [0x26f539A0fE189A7f228D7982BF10Bc294FA9070c](https://gnosis-safe.io/app/#/safes/0x26f539A0fE189A7f228D7982BF10Bc294FA9070c/transactions) |
 | Treasury (Polygon)  | [0x80D27bfb638F4Fea1e862f1bd07DEa577CB77D38](https://polygon.gnosis-safe.io/app/#/safes/0x80D27bfb638F4Fea1e862f1bd07DEa577CB77D38/transactions) |
 | Dev Fund            | [0xffDee62759E4BA71f2A632c6e3690d8FAa55bAb3](https://etherscan.io/address/0xffDee62759E4BA71f2A632c6e3690d8FAa55bAb3) |
