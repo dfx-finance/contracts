@@ -102,4 +102,4 @@ For the source of the protocol's smart contracts, please see: https://github.com
 | DFXv0.5 XSGD | [0x600E825F058A93146acD5877084E7d4525c5d846](https://polygonscan.com/address/0x600E825F058A93146acD5877084E7d4525c5d846) |
 | DFXv0.5 NZDS | [0x308Ce99A085a25A9C3D0f2b96bb511017e955711](https://polygonscan.com/address/0x308Ce99A085a25A9C3D0f2b96bb511017e955711) |
 | DFXv0.5 TRYB | [0x19914181a811ab9eb25c81d6df1972bf02c45cbe](https://polygonscan.com/address/0x19914181a811ab9eb25c81d6df1972bf02c45cbe) |
-| DFXv0.5 TEL-DFX | [0x199DB5eAFaDbB2bAC3b54238AF315915372659c0](https://polygonscan.com/address/0x199DB5eAFaDbB2bAC3b54238AF315915372659c0) |
+| DFXv0.5 TEL-DFX | [0xfAB274069A8203143c396B388fb4B6729FcC76Df](https://polygonscan.com/address/0xfAB274069A8203143c396B388fb4B6729FcC76Df) |
