@@ -97,9 +97,9 @@ For the source of the protocol's smart contracts, please see: https://github.com
 
 | Staking Pool | Address                                                                                                       |
 | ---- | --------------------------------------------------------------------------------------------------------------------- |
-| DFXv0.5 CADC | [0x416e075c7893ceae8e4531655fb7725b79f86e10](https://polygonscan.com/address/0x416e075c7893ceae8e4531655fb7725b79f86e10) |
-| DFXv0.5 EURS | [0xb748a5509246e0a47d20fb64343dbfad5b26dae7](https://polygonscan.com/address/0xb748a5509246e0a47d20fb64343dbfad5b26dae7) |
-| DFXv0.5 XSGD | [0x89141b3c8a35f5323853d8c8839488fc0b90aa4d](https://polygonscan.com/address/0x89141b3c8a35f5323853d8c8839488fc0b90aa4d) |
-| DFXv0.5 NZDS | [0x6e01699eF5C36DCe95D627B2E29E8323a086122c](https://polygonscan.com/address/0x6e01699eF5C36DCe95D627B2E29E8323a086122c) |
-| DFXv0.5 TRYB | [0xfCBb946CbC0434a541433E97e835072f54a438F6](https://polygonscan.com/address/0xfCBb946CbC0434a541433E97e835072f54a438F6) |
-| DFXv0.5 TEL-DFX | [0xd52D48Db08e8224ef6E2be8F54f3c84e790b1c32](https://polygonscan.com/address/0xd52D48Db08e8224ef6E2be8F54f3c84e790b1c32) |
+| DFXv0.5 CADC | [0xa523959588E51B5BeA8D39fd861ab34101181A19](https://polygonscan.com/address/0xa523959588E51B5BeA8D39fd861ab34101181A19) |
+| DFXv0.5 EURS | [0x419062c0DbEC658a943333Bc783617C58D25F316](https://polygonscan.com/address/0x419062c0DbEC658a943333Bc783617C58D25F316) |
+| DFXv0.5 XSGD | [0x600E825F058A93146acD5877084E7d4525c5d846](https://polygonscan.com/address/0x600E825F058A93146acD5877084E7d4525c5d846) |
+| DFXv0.5 NZDS | [0x308Ce99A085a25A9C3D0f2b96bb511017e955711](https://polygonscan.com/address/0x308Ce99A085a25A9C3D0f2b96bb511017e955711) |
+| DFXv0.5 TRYB | [0x19914181a811ab9eb25c81d6df1972bf02c45cbe](https://polygonscan.com/address/0x19914181a811ab9eb25c81d6df1972bf02c45cbe) |
+| DFXv0.5 TEL-DFX | [0xfAB274069A8203143c396B388fb4B6729FcC76Df](https://polygonscan.com/address/0xfAB274069A8203143c396B388fb4B6729FcC76Df) |
