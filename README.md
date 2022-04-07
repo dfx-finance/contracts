@@ -103,3 +103,15 @@ For the source of the protocol's smart contracts, please see: https://github.com
 | DFXv0.5 NZDS | [0x308Ce99A085a25A9C3D0f2b96bb511017e955711](https://polygonscan.com/address/0x308Ce99A085a25A9C3D0f2b96bb511017e955711) |
 | DFXv0.5 TRYB | [0x19914181a811ab9eb25c81d6df1972bf02c45cbe](https://polygonscan.com/address/0x19914181a811ab9eb25c81d6df1972bf02c45cbe) |
 | DFXv0.5 TEL-DFX | [0xfAB274069A8203143c396B388fb4B6729FcC76Df](https://polygonscan.com/address/0xfAB274069A8203143c396B388fb4B6729FcC76Df) |
+
+## DfxCad
+
+| Name       | Address |
+| ---------- | ------  |
+| Proxy    | [0xFE32747d0251BA92bcb80b6D16C8257eCF25AB1C](https://etherscan.io/address/0xFE32747d0251BA92bcb80b6D16C8257eCF25AB1C) |
+| Logic    | [0xA89b1b88c60BFD1bf2c5f57bFdd1E9a4c7c717C0](https://etherscan.io/address/0xA89b1b88c60BFD1bf2c5f57bFdd1E9a4c7c717C0) |
+| Twap     | [0x5172ADF501cbC4118Ebcb240cC0F95C87BF858BC](https://etherscan.io/address/0x5172ADF501cbC4118Ebcb240cC0F95C87BF858BC) |
+
+| Staking Pool | Address                                                                                                       |
+| ---- | --------------------------------------------------------------------------------------------------------------------- |
+| Curve CADC-DFXCAD | [0xd6Bf24685e1754b24cFbB4277B07a4A28E9d0Da7](https://etherscan.io/address/0xd6Bf24685e1754b24cFbB4277B07a4A28E9d0Da7) |
