@@ -112,6 +112,22 @@ For the source of the protocol's smart contracts, please see: https://github.com
 | Logic    | [0xA89b1b88c60BFD1bf2c5f57bFdd1E9a4c7c717C0](https://etherscan.io/address/0xA89b1b88c60BFD1bf2c5f57bFdd1E9a4c7c717C0) |
 | Twap     | [0x5172ADF501cbC4118Ebcb240cC0F95C87BF858BC](https://etherscan.io/address/0x5172ADF501cbC4118Ebcb240cC0F95C87BF858BC) |
 
+## DfxEur
+
+| Name       | Address |
+| ---------- | ------  |
+| Proxy    | [0x369034690B89846FA11366bE44dbc64A20A229d6](https://etherscan.io/address/0x369034690B89846FA11366bE44dbc64A20A229d6) |
+| Logic    | [0x8dF06002BF0afC0B2C58C694ADe3Aa8fF38EC224](https://etherscan.io/address/0x8dF06002BF0afC0B2C58C694ADe3Aa8fF38EC224) |
+| Twap     | [0x3642b8A682a2135545eC5AAB5573ec09Eb02f4be](https://etherscan.io/address/0x3642b8A682a2135545eC5AAB5573ec09Eb02f4be) |
+
+## DfxSgd
+
+| Name       | Address |
+| ---------- | ------  |
+| Proxy    | [0x52dDdA10eb0abdb34528329C4aF16d218AB95bD1](https://etherscan.io/address/0x52dDdA10eb0abdb34528329C4aF16d218AB95bD1) |
+| Logic    | [0xeF963f73dfd6BA729479370547e99297b214904e](https://etherscan.io/address/0xeF963f73dfd6BA729479370547e99297b214904e) |
+| Twap     | [0xc1e0948Aced99958f6Ca64d4cD43d9896f3780B8](https://etherscan.io/address/0xc1e0948Aced99958f6Ca64d4cD43d9896f3780B8) |
+
 | Staking Pool | Address                                                                                                       |
 | ---- | --------------------------------------------------------------------------------------------------------------------- |
 | Curve CADC-DFXCAD | [0xd6Bf24685e1754b24cFbB4277B07a4A28E9d0Da7](https://etherscan.io/address/0xd6Bf24685e1754b24cFbB4277B07a4A28E9d0Da7) |
