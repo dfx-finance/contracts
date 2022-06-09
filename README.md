@@ -131,3 +131,4 @@ For the source of the protocol's smart contracts, please see: https://github.com
 | Staking Pool | Address                                                                                                       |
 | ---- | --------------------------------------------------------------------------------------------------------------------- |
 | Curve CADC-DFXCAD | [0xd6Bf24685e1754b24cFbB4277B07a4A28E9d0Da7](https://etherscan.io/address/0xd6Bf24685e1754b24cFbB4277B07a4A28E9d0Da7) |
+| Curve XSGD-DFXSGD | [0x3605bcab084aaf76364fda0ef9439f765525e711](https://etherscan.io/address/0x3605bcab084aaf76364fda0ef9439f765525e711) |
