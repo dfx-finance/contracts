@@ -111,9 +111,11 @@ For the source of the protocol's smart contracts, please see: https://github.com
 | Logic | [0xA89b1b88c60BFD1bf2c5f57bFdd1E9a4c7c717C0](https://etherscan.io/address/0xA89b1b88c60BFD1bf2c5f57bFdd1E9a4c7c717C0) |
 | Twap  | [0x5172ADF501cbC4118Ebcb240cC0F95C87BF858BC](https://etherscan.io/address/0x5172ADF501cbC4118Ebcb240cC0F95C87BF858BC) |
 
-| Staking Rewards  | Address                                                                                                               |
-| ---------------- | --------------------------------------------------------------------------------------------------------------------- |
-| MUNI DFXCAD-CADC | [0xBBab9b339207417eD0860698B1bDFFfc519E9ED7](https://etherscan.io/address/0xBBab9b339207417eD0860698B1bDFFfc519E9ED7) |
+| Staking Pool                    | Address                                                                                                               |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| MUNI DFXCAD-CADC Proxy          | [0x60e6E1080C383365C662C299217859967e69733e](https://etherscan.io/address/0x60e6E1080C383365C662C299217859967e69733e) |
+| MUNI DFXCAD-CADC Logic          | [0xA2bF8A967a54339D745160b08fe2e9813bD62471](https://etherscan.io/address/0xA2bF8A967a54339D745160b08fe2e9813bD62471) |
+| MUNI DFXCAD-CADC StakingRewards | [0xBBab9b339207417eD0860698B1bDFFfc519E9ED7](https://etherscan.io/address/0xBBab9b339207417eD0860698B1bDFFfc519E9ED7) |
 
 ## DfxEur
 
