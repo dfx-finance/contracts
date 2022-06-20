@@ -130,8 +130,8 @@ For the source of the protocol's smart contracts, please see: https://github.com
 
 | Name  | Address                                                                                                               |
 | ----- | --------------------------------------------------------------------------------------------------------------------- |
-| Proxy | [0x52dDdA10eb0abdb34528329C4aF16d218AB95bD1](https://etherscan.io/address/0x52dDdA10eb0abdb34528329C4aF16d218AB95bD1) |
-| Logic | [0xeF963f73dfd6BA729479370547e99297b214904e](https://etherscan.io/address/0xeF963f73dfd6BA729479370547e99297b214904e) |
+| Proxy | [0x890434700d221a50040b6a6882135129137C0452](https://etherscan.io/address/0x890434700d221a50040b6a6882135129137C0452) |
+| Logic | [0x0604B3f0092624CfB28d9A585FA4fbDF1C028c2A](https://etherscan.io/address/0x0604B3f0092624CfB28d9A585FA4fbDF1C028c2A) |
 | Twap  | [0xc1e0948Aced99958f6Ca64d4cD43d9896f3780B8](https://etherscan.io/address/0xc1e0948Aced99958f6Ca64d4cD43d9896f3780B8) |
 
 | Staking Pool                    | Address                                                                                                               |
