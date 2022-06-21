@@ -107,36 +107,14 @@ For the source of the protocol's smart contracts, please see: https://github.com
 
 | Name  | Address                                                                                                               |
 | ----- | --------------------------------------------------------------------------------------------------------------------- |
-| Proxy | [0xFE32747d0251BA92bcb80b6D16C8257eCF25AB1C](https://etherscan.io/address/0xFE32747d0251BA92bcb80b6D16C8257eCF25AB1C) |
-| Logic | [0xA89b1b88c60BFD1bf2c5f57bFdd1E9a4c7c717C0](https://etherscan.io/address/0xA89b1b88c60BFD1bf2c5f57bFdd1E9a4c7c717C0) |
-| Twap  | [0x5172ADF501cbC4118Ebcb240cC0F95C87BF858BC](https://etherscan.io/address/0x5172ADF501cbC4118Ebcb240cC0F95C87BF858BC) |
+| ~~Proxy~~ | ~~[0xFE32747d0251BA92bcb80b6D16C8257eCF25AB1C](https://etherscan.io/address/0xFE32747d0251BA92bcb80b6D16C8257eCF25AB1C)~~ |
+| ~~Logic~~ | ~~[0xA89b1b88c60BFD1bf2c5f57bFdd1E9a4c7c717C0](https://etherscan.io/address/0xA89b1b88c60BFD1bf2c5f57bFdd1E9a4c7c717C0)~~ |
+| ~~Twap~~  | ~~[0x5172ADF501cbC4118Ebcb240cC0F95C87BF858BC](https://etherscan.io/address/0x5172ADF501cbC4118Ebcb240cC0F95C87BF858BC)~~ |
 
 | Staking Pool                    | Address                                                                                                               |
 | ------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Curve CADC-DFXCAD               | [0xd6Bf24685e1754b24cFbB4277B07a4A28E9d0Da7](https://etherscan.io/address/0xd6Bf24685e1754b24cFbB4277B07a4A28E9d0Da7) |
-| MUNI DFXCAD-CADC Proxy          | [0x60e6E1080C383365C662C299217859967e69733e](https://etherscan.io/address/0x60e6E1080C383365C662C299217859967e69733e) |
-| MUNI DFXCAD-CADC Logic          | [0xA2bF8A967a54339D745160b08fe2e9813bD62471](https://etherscan.io/address/0xA2bF8A967a54339D745160b08fe2e9813bD62471) |
-| MUNI DFXCAD-CADC StakingRewards | [0xBBab9b339207417eD0860698B1bDFFfc519E9ED7](https://etherscan.io/address/0xBBab9b339207417eD0860698B1bDFFfc519E9ED7) |
+| ~~Curve CADC-DFXCAD~~               | ~~[0xd6Bf24685e1754b24cFbB4277B07a4A28E9d0Da7](https://etherscan.io/address/0xd6Bf24685e1754b24cFbB4277B07a4A28E9d0Da7)~~ |
+| ~~MUNI DFXCAD-CADC Proxy~~          | ~~[0x60e6E1080C383365C662C299217859967e69733e](https://etherscan.io/address/0x60e6E1080C383365C662C299217859967e69733e)~~ |
+| ~~MUNI DFXCAD-CADC Logic~~          | ~~[0xA2bF8A967a54339D745160b08fe2e9813bD62471](https://etherscan.io/address/0xA2bF8A967a54339D745160b08fe2e9813bD62471)~~ |
+| ~~MUNI DFXCAD-CADC StakingRewards~~ | ~~[0xBBab9b339207417eD0860698B1bDFFfc519E9ED7](https://etherscan.io/address/0xBBab9b339207417eD0860698B1bDFFfc519E9ED7)~~ |
 
-## DfxEur
-
-| Name  | Address                                                                                                               |
-| ----- | --------------------------------------------------------------------------------------------------------------------- |
-| Proxy | [0x369034690B89846FA11366bE44dbc64A20A229d6](https://etherscan.io/address/0x369034690B89846FA11366bE44dbc64A20A229d6) |
-| Logic | [0x8dF06002BF0afC0B2C58C694ADe3Aa8fF38EC224](https://etherscan.io/address/0x8dF06002BF0afC0B2C58C694ADe3Aa8fF38EC224) |
-| Twap  | [0x3642b8A682a2135545eC5AAB5573ec09Eb02f4be](https://etherscan.io/address/0x3642b8A682a2135545eC5AAB5573ec09Eb02f4be) |
-
-## DfxSgd
-
-| Name  | Address                                                                                                               |
-| ----- | --------------------------------------------------------------------------------------------------------------------- |
-| Proxy | [0x890434700d221a50040b6a6882135129137C0452](https://etherscan.io/address/0x890434700d221a50040b6a6882135129137C0452) |
-| Logic | [0x0604B3f0092624CfB28d9A585FA4fbDF1C028c2A](https://etherscan.io/address/0x0604B3f0092624CfB28d9A585FA4fbDF1C028c2A) |
-| Twap  | [0xc1e0948Aced99958f6Ca64d4cD43d9896f3780B8](https://etherscan.io/address/0xc1e0948Aced99958f6Ca64d4cD43d9896f3780B8) |
-
-| Staking Pool                    | Address                                                                                                               |
-| ------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Curve XSGD-DFXSGD               | [0x3605bcab084aaf76364fda0ef9439f765525e711](https://etherscan.io/address/0x3605bcab084aaf76364fda0ef9439f765525e711) |
-| MUNI DFXSGD-XSGD Proxy          | [0x990901696ac0bE0e2276594368dbE26e8AFc1219](https://etherscan.io/address/0x990901696ac0bE0e2276594368dbE26e8AFc1219) |
-| MUNI DFXSGD-XSGD Logic          | [0xd39A7DE0Fe4869CCB8D03D64b245a04e16342044](https://etherscan.io/address/0xd39A7DE0Fe4869CCB8D03D64b245a04e16342044) |
-| MUNI DFXSGD-XSGD StakingRewards | [0x2A2690258aC87138A3F0994dC4c0506ee503577F](https://etherscan.io/address/0x2a2690258ac87138a3f0994dc4c0506ee503577f) |
