@@ -57,6 +57,7 @@ For the source of the protocol's smart contracts, please see: https://github.com
 | XsgdToUsdAssimilator | [0xe36DeD0aF2929870977F05A1f017BAB6CF8190f8](https://etherscan.io/address/0xe36DeD0aF2929870977F05A1f017BAB6CF8190f8) |
 | NzdsToUsdAssimilator | [0x583aF720640e95A32A2E7973596aDD2e67a3Cb34](https://etherscan.io/address/0x583aF720640e95A32A2E7973596aDD2e67a3Cb34) |
 | TrybToUsdAssimilator | [0xF3664456ae047F8f3e2c256B1a30780516C406F4](https://etherscan.io/address/0xF3664456ae047F8f3e2c256B1a30780516C406F4) |
+| EurocToUsdAssimilator | [0x4ff84d728F597b3090873d878Fc7A4684a3B9f64](https://etherscan.io/address/0x4ff84d728F597b3090873d878Fc7A4684a3B9f64) |
 | XidrToUsdAssimilator | [0x39b110464dfeee66f7c1dcec1d4c8322f668a510](https://etherscan.io/address/0x39b110464dfeee66f7c1dcec1d4c8322f668a510) |
 | DFXv0.5 CADC         | [0xa6c0cbcaebd93ad3c6c94412ec06aaa37870216d](https://etherscan.io/address/0xa6c0cbcaebd93ad3c6c94412ec06aaa37870216d) |
 | DFXv0.5 EURS         | [0x1a4Ffe0DCbDB4d551cfcA61A5626aFD190731347](https://etherscan.io/address/0x1a4Ffe0DCbDB4d551cfcA61A5626aFD190731347) |
@@ -64,6 +65,7 @@ For the source of the protocol's smart contracts, please see: https://github.com
 | DFXv0.5 NZDS         | [0xe9669516e09f5710023566458f329cce6437aaac](https://etherscan.io/address/0xe9669516e09f5710023566458f329cce6437aaac) |
 | DFXv0.5 TRYB         | [0xc574a613a3900e4314da13eb2287f13689a5b64d](https://etherscan.io/address/0xc574a613a3900e4314da13eb2287f13689a5b64d) |
 | DFXv0.5 XIDR         | [0xdd39379ab7c93b9baae29e6ec03795d0bc99a889](https://etherscan.io/address/0xdd39379ab7c93b9baae29e6ec03795d0bc99a889) |
+| DFXv0.5 EUROC         | [0x66310ec13f36CAf5532c32B4359760592Db835Ab](https://etherscan.io/address/0x66310ec13f36CAf5532c32B4359760592Db835Ab) |
 
 | Staking Pool     | Address                                                                                                               |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -73,6 +75,7 @@ For the source of the protocol's smart contracts, please see: https://github.com
 | DFXv0.5 NZDS     | [0xe06FA52e0d2D58Fe192285bfa0507F09cDd9824a](https://etherscan.io/address/0xe06FA52e0d2D58Fe192285bfa0507F09cDd9824a) |
 | DFXv0.5 TRYB     | [0xddb720069fdfe7be2e2883a1c06be0f353f7c4c8](https://etherscan.io/address/0xddb720069fdfe7be2e2883a1c06be0f353f7c4c8) |
 | DFXv0.5 XIDR     | [0xE29B7285c1169a9765e2a9BfE74209077Bee55D6](https://etherscan.io/address/0xE29B7285c1169a9765e2a9BfE74209077Bee55D6) |
+| DFXv0.5 EUROC     | [0x47B16412c0C9E22362C07CCEf8879172dDc06f6D](https://etherscan.io/address/0x47B16412c0C9E22362C07CCEf8879172dDc06f6D) |
 | DFX-ETH-SUSHI-LP | [0xE690E93Fd96b2b8d1cdeCDe5F08422F3dd82e164](https://etherscan.io/address/0xE690E93Fd96b2b8d1cdeCDe5F08422F3dd82e164) |
 
 ## Polygon
