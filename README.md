@@ -34,6 +34,7 @@ For the source of the protocol's smart contracts, please see: https://github.com
 | Zap                  | [0xEff6A7d39eeAa696d7421fa47B498B31F3bd0e39](https://etherscan.io/address/0xEff6A7d39eeAa696d7421fa47B498B31F3bd0e39) |
 | Router               | [0xA06943F16e0bcd73025807428C0aB1088575f1B7](https://etherscan.io/address/0xA06943F16e0bcd73025807428C0aB1088575f1B7) |
 | CurveFactoryV2       | [0xDE5bb69892D663f1facBE351363509BcB65573AA](https://etherscan.io/address/0xDE5bb69892D663f1facBE351363509BcB65573AA) |
+| AssimilatorFactory   | [0x46Fa2e883cc7DdFfEd39C55300Ee4e6d31a8268c](https://etherscan.io/address/0x46Fa2e883cc7DdFfEd39C55300Ee4e6d31a8268c) |
 | CadcToUsdAssimilator | [0x02aE37dD990F87789fb13DbF60B29229Baf15c9C](https://etherscan.io/address/0x02aE37dD990F87789fb13DbF60B29229Baf15c9C) |
 | UsdcToUsdAssimilator | [0xc2E645C253FAf984B6Af2668798719b7c6AbAB95](https://etherscan.io/address/0xc2E645C253FAf984B6Af2668798719b7c6AbAB95) |
 | EurocToUsdAssimilator| [0x76cFB2e5eC5B6fE497b5Fb2dAf88AAF7E42cE4b2](https://etherscan.io/address/0x76cFB2e5eC5B6fE497b5Fb2dAf88AAF7E42cE4b2) |
