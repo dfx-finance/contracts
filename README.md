@@ -31,43 +31,45 @@ For the source of the protocol's smart contracts, please see: https://github.com
 ## Ethereum
 | Name                 | Address                                                                                                               |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Zap                  | [0xEff6A7d39eeAa696d7421fa47B498B31F3bd0e39](https://etherscan.io/address/0xEff6A7d39eeAa696d7421fa47B498B31F3bd0e39) |
-| Router               | [0xA06943F16e0bcd73025807428C0aB1088575f1B7](https://etherscan.io/address/0xA06943F16e0bcd73025807428C0aB1088575f1B7) |
-| CurveFactoryV2       | [0xDE5bb69892D663f1facBE351363509BcB65573AA](https://etherscan.io/address/0xDE5bb69892D663f1facBE351363509BcB65573AA) |
-| AssimilatorFactory   | [0x46Fa2e883cc7DdFfEd39C55300Ee4e6d31a8268c](https://etherscan.io/address/0x46Fa2e883cc7DdFfEd39C55300Ee4e6d31a8268c) |
-| CadcToUsdAssimilator | [0x02aE37dD990F87789fb13DbF60B29229Baf15c9C](https://etherscan.io/address/0x02aE37dD990F87789fb13DbF60B29229Baf15c9C) |
-| UsdcToUsdAssimilator | [0xc2E645C253FAf984B6Af2668798719b7c6AbAB95](https://etherscan.io/address/0xc2E645C253FAf984B6Af2668798719b7c6AbAB95) |
-| EurocToUsdAssimilator| [0x76cFB2e5eC5B6fE497b5Fb2dAf88AAF7E42cE4b2](https://etherscan.io/address/0x76cFB2e5eC5B6fE497b5Fb2dAf88AAF7E42cE4b2) |
-| XsgdToUsdAssimilator | [0xcB6e89506cdc114b4F2af93Fd24e8D7915CDd562](https://etherscan.io/address/0xcB6e89506cdc114b4F2af93Fd24e8D7915CDd562) |
-| NzdsToUsdAssimilator | [0x83536255BA8432763420dfE2B5d983095C1108EB](https://etherscan.io/address/0x83536255BA8432763420dfE2B5d983095C1108EB) |
-| TrybToUsdAssimilator | [0xD9CC36B657B7BD15f95ce8f5E1c5D13cdE440154](https://etherscan.io/address/0xD9CC36B657B7BD15f95ce8f5E1c5D13cdE440154) |
-| XidrToUsdAssimilator | [0x08CD9D993840ccA86546f4Ebf166C78c7d8ff700](https://etherscan.io/address/0x08CD9D993840ccA86546f4Ebf166C78c7d8ff700zz) |
-| GyenToUsdAssimilator | [0xDBbFaAfb98B684F963866205B2099D2705dC8880](https://etherscan.io/address/0xDBbFaAfb98B684F963866205B2099D2705dC8880) |
-| DFXv2 CADC           | [0xF3d7AA346965656E7c65FB4135531e0C2270AF83](https://etherscan.io/address/0xF3d7AA346965656E7c65FB4135531e0C2270AF83) |
-| DFXv2 EUROC          | [0x477658494C3541ba272a7120176D77674a0183Ba](https://etherscan.io/address/0x477658494C3541ba272a7120176D77674a0183Ba) |
-| DFXv2 XSGD           | [0x9A6C7aE10eB82A0d7dC3C296eCbc2E2bDC53E80B](https://etherscan.io/address/0x9A6C7aE10eB82A0d7dC3C296eCbc2E2bDC53E80B) |
-| DFXv2 NZDS           | [0x764a5A29f982D3513e76fe07dF2034821fBdba72](https://etherscan.io/address/0x764a5A29f982D3513e76fe07dF2034821fBdba72) |
-| DFXv2 TRYB           | [0xcF3c8f51DE189C8d5382713B716B133e485b99b7](https://etherscan.io/address/0xcF3c8f51DE189C8d5382713B716B133e485b99b7) |
-| DFXv2 XIDR           | [0x46161158b1947D9149E066d6d31AF1283b2d377C](https://etherscan.io/address/0x46161158b1947D9149E066d6d31AF1283b2d377C) |
-| DFXv2 GYEN           | [0x63cB0F59B7E67c7d4Cb96214ca456597D85c587d](https://etherscan.io/address/0x63cB0F59B7E67c7d4Cb96214ca456597D85c587d) |
+| Zap                  | [0x873624bBd114A90bD38Dd5B7A9c25E0271Ce36C8](https://etherscan.io/address/0x873624bBd114A90bD38Dd5B7A9c25E0271Ce36C8) |
+| Router               | [0x0039d04e644cc816409dfa01Ad4D92471fCE26d0](https://etherscan.io/address/0x0039d04e644cc816409dfa01Ad4D92471fCE26d0) |
+| CurveFactoryV2       | [0x72e2c186CeC99A8743E0C0FD2298cc70f116dD8D](https://etherscan.io/address/0x72e2c186CeC99A8743E0C0FD2298cc70f116dD8D) |
+| AssimilatorFactory   | [0x961e5492f2fd93ac2e26596a7bc4db331f603bfc](https://etherscan.io/address/0x961e5492f2fd93ac2e26596a7bc4db331f603bfc) |
+| CadcToUsdAssimilator | [0xB5DfB99329f7f9602b8C45F6E71fA5bD723d4EB0](https://etherscan.io/address/0xB5DfB99329f7f9602b8C45F6E71fA5bD723d4EB0) |
+| UsdcToUsdAssimilator | [0x25464D1389E3400BC5FE36E9F3a943cDff61e2d6](https://etherscan.io/address/0x25464D1389E3400BC5FE36E9F3a943cDff61e2d6) |
+| EurocToUsdAssimilator| [0x9E91AF448360d4c797Ff87095d6ce9151D6Eb43d](https://etherscan.io/address/0x9E91AF448360d4c797Ff87095d6ce9151D6Eb43d) |
+| XsgdToUsdAssimilator | [0xECB13b3289b92a5af67D66dDB5448e235677fFb2](https://etherscan.io/address/0xECB13b3289b92a5af67D66dDB5448e235677fFb2) |
+| NzdsToUsdAssimilator | [0x53bb41D6f24e7755787c42848f0610C267A1D72a](https://etherscan.io/address/0x53bb41D6f24e7755787c42848f0610C267A1D72a) |
+| TrybToUsdAssimilator | [0x02ADe43E101227685688E8D1ce94cC8848Aa64dD](https://etherscan.io/address/0x02ADe43E101227685688E8D1ce94cC8848Aa64dD) |
+| GyenToUsdAssimilator | [0xD33662bB049457a536a349c2f78F98335Da5538E](https://etherscan.io/address/0xD33662bB049457a536a349c2f78F98335Da5538E) |
+| XidrToUsdAssimilator | [0xE593ac793696F75BdD630c93b6dFffF878b19D43](https://etherscan.io/address/0xE593ac793696F75BdD630c93b6dFffF878b19D43) |
+| DFXv2 CADC           | [0xEC1B0EE2eB7FfBb67287d69C7eAf07674De4D0b2](https://etherscan.io/address/0xEC1B0EE2eB7FfBb67287d69C7eAf07674De4D0b2) |
+| DFXv2 EUROC          | [0xb1F0AC7043b4581C13a160D2c6C2a31C3dA94D8B](https://etherscan.io/address/0xb1F0AC7043b4581C13a160D2c6C2a31C3dA94D8B) |
+| DFXv2 XSGD           | [0x63eAa9C120aae7d1fB22BD347006059b6d4cD9E3](https://etherscan.io/address/0x63eAa9C120aae7d1fB22BD347006059b6d4cD9E3) |
+| DFXv2 NZDS           | [0xF084bB7c1582BACD911736776A33cA6Bf9138a8F](https://etherscan.io/address/0xF084bB7c1582BACD911736776A33cA6Bf9138a8F) |
+| DFXv2 TRYB           | [0xbFaDef300C25Ba1292Bd8c51e44553BBE61b48dF](https://etherscan.io/address/0xbFaDef300C25Ba1292Bd8c51e44553BBE61b48dF) |
+| DFXv2 GYEN           | [0xEF46465420Ba8aE217A9244fD3744d49385B2E7d](https://etherscan.io/address/0xEF46465420Ba8aE217A9244fD3744d49385B2E7d) |
+| DFXv2 XIDR           | [0x0A8080D431D1D09F136D64b1bf78f99230410FA0](https://etherscan.io/address/0x0A8080D431D1D09F136D64b1bf78f99230410FA0) |
+
 ## Polygon
 
 | Name                 | Address                                                                                                                  |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Zap                  | [0x1051d69861a07D0B7927f6085ae6ef4165A7c7D5](https://polygonscan.com/address/0x1051d69861a07D0B7927f6085ae6ef4165A7c7D5) |
-| Router               | [0xCe051e8d23590f63De7a8c907cFD0763316D8f95](https://polygonscan.com/address/0xCe051e8d23590f63De7a8c907cFD0763316D8f95) |
-| CurveFactoryV2       | [0x1F5969E331423E0845e61A64545bBA8f7426106E](https://polygonscan.com/address/0x1F5969E331423E0845e61A64545bBA8f7426106E) |
-| CadcToUsdAssimilator | [0xC3C3403832b5c8534Ce32297af1a301ee083C29d](https://polygonscan.com/address/0xC3C3403832b5c8534Ce32297af1a301ee083C29d) |
-| UsdcToUsdAssimilator | [0x9a560D65074c82b1C688D1B4862bA2678D3e3AA5](https://polygonscan.com/address/0x9a560D65074c82b1C688D1B4862bA2678D3e3AA5) |
-| EursToUsdAssimilator | [0xb3c6880b89c8A4FC5839aF399BB55ED8E2e1C1d2](https://polygonscan.com/address/0xb3c6880b89c8A4FC5839aF399BB55ED8E2e1C1d2) |
-| XsgdToUsdAssimilator | [0x92a72C8100Bcd6CC6fDAf5cA34D025EFeFC9dAB8](https://polygonscan.com/address/0x92a72C8100Bcd6CC6fDAf5cA34D025EFeFC9dAB8) |
-| NzdsToUsdAssimilator | [0x1b7493164253521bC5CE4aB61C016E0882DfF714](https://polygonscan.com/address/0x1b7493164253521bC5CE4aB61C016E0882DfF714) |
-| TrybToUsdAssimilator | [0x1aBc57F4bFB4519695B49D1A9cf412f8A591Be87](https://polygonscan.com/address/0x1aBc57F4bFB4519695B49D1A9cf412f8A591Be87) |
-| DFXv2 CADC           | [0xbe9fa3E654A1bf8fe740E9d930D595f31Fce1aE2](https://polygonscan.com/address/0xbe9fa3E654A1bf8fe740E9d930D595f31Fce1aE2) |
-| DFXv2 EURS           | [0x7E4a73278D6e578aF34FAAAba76eD29583AC0341](https://polygonscan.com/address/0x7E4a73278D6e578aF34FAAAba76eD29583AC0341) |
-| DFXv2 XSGD           | [0x8C6eb8C26F166f87B4f886cE07116a823805602c](https://polygonscan.com/address/0x8C6eb8C26F166f87B4f886cE07116a823805602c) |
-| DFXv2 NZDS           | [0xefac71536feBE220D0Bb5128AeBBD1e3df2a1e67](https://polygonscan.com/address/0xefac71536feBE220D0Bb5128AeBBD1e3df2a1e67) |
-| DFXv2 TRYB           | [0x17F8ddcEa03a8972559a8d32874E144C87baf5b6](https://polygonscan.com/address/0x17F8ddcEa03a8972559a8d32874E144C87baf5b6) |
+| Zap                  | [0xfcb58A28017530AA40a43719184A026fc82A648f](https://polygonscan.com/address/0xfcb58A28017530AA40a43719184A026fc82A648f) |
+| Router               | [0x142e17A35EbdDA78Ac86cE5C0Ae4A85D5c2Dc1e6](https://polygonscan.com/address/0x142e17A35EbdDA78Ac86cE5C0Ae4A85D5c2Dc1e6) |
+| CurveFactoryV2       | [0xC7F49e9b4991663cb3d216DE351843DBD12eB7cA](https://polygonscan.com/address/0xC7F49e9b4991663cb3d216DE351843DBD12eB7cA) |
+| AssimilatorFactory   | [0x5C690559a6a4D2fD1C7fD18442423e078e6Da105](https://polygonscan.com/address/0x5C690559a6a4D2fD1C7fD18442423e078e6Da105) |
+| CadcToUsdAssimilator | [0xDA30b28ea0CCE746fBB3E7982e85ad1a3422856b](https://polygonscan.com/address/0xDA30b28ea0CCE746fBB3E7982e85ad1a3422856b) |
+| UsdcToUsdAssimilator | [0x0ee83C1E634ce530c77299901A1b761301D1d487](https://polygonscan.com/address/0x0ee83C1E634ce530c77299901A1b761301D1d487) |
+| EursToUsdAssimilator | [0x54e5aBfa9F778dD9B0176a5BF5229E45C46b607e](https://polygonscan.com/address/0x54e5aBfa9F778dD9B0176a5BF5229E45C46b607e) |
+| XsgdToUsdAssimilator | [0x62531c7cf8423F864A0147187df5949E187359F9](https://polygonscan.com/address/0x62531c7cf8423F864A0147187df5949E187359F9) |
+| NzdsToUsdAssimilator | [0x82527EE8A2D64fa1E4Be75B0aaE0C0f8F76c6db5](https://polygonscan.com/address/0x82527EE8A2D64fa1E4Be75B0aaE0C0f8F76c6db5) |
+| TrybToUsdAssimilator | [0xE4aDC76BA37852519b6d95874fDC0d065f1650Af](https://polygonscan.com/address/0xE4aDC76BA37852519b6d95874fDC0d065f1650Af) |
+| DFXv2 CADC           | [0x5730c62E19C357332f91Af4C07DBa2920cbf689E](https://polygonscan.com/address/0x5730c62E19C357332f91Af4C07DBa2920cbf689E) |
+| DFXv2 EURS           | [0x700fB2183E4B37fc76fd732adF447a6Ff41c7af5](https://polygonscan.com/address/0x700fB2183E4B37fc76fd732adF447a6Ff41c7af5) |
+| DFXv2 XSGD           | [0xB1a5Fe6eE43c2D4a6D0F3668DAE60829574E4E81](https://polygonscan.com/address/0xB1a5Fe6eE43c2D4a6D0F3668DAE60829574E4E81) |
+| DFXv2 NZDS           | [0x800D6B4996526574FdF733B86D1EACA934187CE9](https://polygonscan.com/address/0x800D6B4996526574FdF733B86D1EACA934187CE9) |
+| DFXv2 TRYB           | [0xbDE2CA38B651564C76f0A4520C3C3172a892E9eB](https://polygonscan.com/address/0xbDE2CA38B651564C76f0A4520C3C3172a892E9eB) |
 ---
 # v0.5
 ## Ethereum
